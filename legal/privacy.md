@@ -7,7 +7,7 @@ At Lilucat, we believe that the less information we know about you, the better. 
 
 
 ## Personal Data
-We don't collect and don't have access to the personal data that you save in Storage Cleaner by Lilucat. Everything you do is saved locally on your device and never shared with anyone even with us. When you use our software we may record some usage analytics, subscription validation, and crash logs. The sole purpose of this data is to help us make better decisions on where to Storage Cleaner by Lilucat our efforts and improve our software. You provide some data directly, such as when you contact us for support. Such data is limited to your email address only.
+We don't collect and don't have access to the personal data that you save in SwipeCloud. Everything you do is saved locally on your device and never shared with anyone even with us. When you use our software we may record some usage analytics, subscription validation, and crash logs. The sole purpose of this data is to help us make better decisions on where to Storage Cleaner by Lilucat our efforts and improve our software. You provide some data directly, such as when you contact us for support. Such data is limited to your email address only.
 
 
 ## Subscription validation
@@ -30,6 +30,8 @@ The app usage analytics collected is minimal but essential to help us run our bu
 
 We use MixPanel to collect and manage this data.
 
+## Clouds Access
+We do not collect or have access to any personal data that you upload to or access through your cloud accounts.
 
 ## Crash logs
 Crash logs are, by default, automatically sent on the next app start. These logs contain anonymized data about the crash that can help us identify the cause and potentially provide a fix in a future update. These logs do not contain any data or metadata about the content you create with our software. Here’s what’s collected:
